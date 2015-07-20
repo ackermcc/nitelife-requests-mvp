@@ -1,0 +1,19 @@
+/*OVERIDES & ADDITIONS*/
+.navbar-brand img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+/*All*/
+html, body {
+	height:100%;
+}
+
+/*NAVBAR*/
+
+.nl-navbar {
+	border-radius: 0;
+	background: #33c5f3;
+}
+
+/*IFRAME*/
